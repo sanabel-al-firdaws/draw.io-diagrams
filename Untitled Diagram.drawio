@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-08T10:52:44.252Z" agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36 EdgA/126.0.0.0" etag="MPR3kObqPxPeeWRz3ocP" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-08T11:14:55.692Z" agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36 EdgA/126.0.0.0" etag="FNj5JdOe9KxeLZ4rWd8p" version="24.6.4" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="384" dy="847" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="326" dy="720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -69,38 +69,44 @@
         <mxCell id="5z6oDSpN4JRysGnLd312-1798" value="علامات الفعل" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f08e81;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
           <mxGeometry x="960" y="360" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="iHlBPepbxZfsLJ_pUvUi-1779" value="سوف" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f08e81;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
+        <mxCell id="iHlBPepbxZfsLJ_pUvUi-1779" value="سوف" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f08e81;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
           <mxGeometry x="1040" y="410" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="iHlBPepbxZfsLJ_pUvUi-1780" value="قد" style="whiteSpace=wrap;html=1;fontSize=14;fillColor=#f08e81;strokeColor=none;fontColor=#FFFFFF;rounded=1;shadow=0;labelBackgroundColor=none;strokeWidth=3;spacing=5;fontStyle=0;arcSize=7;" vertex="1" parent="1">
+        <mxCell id="iHlBPepbxZfsLJ_pUvUi-1780" value="قد" style="whiteSpace=wrap;html=1;fontSize=14;fillColor=#f08e81;strokeColor=none;fontColor=#FFFFFF;rounded=1;shadow=0;labelBackgroundColor=none;strokeWidth=3;spacing=5;fontStyle=0;arcSize=7;" parent="1" vertex="1">
           <mxGeometry x="1120" y="410.5" width="40" height="39.5" as="geometry" />
         </mxCell>
-        <mxCell id="iHlBPepbxZfsLJ_pUvUi-1781" value="السين" style="whiteSpace=wrap;html=1;fontSize=14;fillColor=#f08e81;strokeColor=none;fontColor=#FFFFFF;rounded=1;shadow=0;labelBackgroundColor=none;strokeWidth=3;spacing=5;fontStyle=0;arcSize=7;" vertex="1" parent="1">
+        <mxCell id="iHlBPepbxZfsLJ_pUvUi-1781" value="السين" style="whiteSpace=wrap;html=1;fontSize=14;fillColor=#f08e81;strokeColor=none;fontColor=#FFFFFF;rounded=1;shadow=0;labelBackgroundColor=none;strokeWidth=3;spacing=5;fontStyle=0;arcSize=7;" parent="1" vertex="1">
           <mxGeometry x="1080" y="410.5" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="iHlBPepbxZfsLJ_pUvUi-1782" value="تاء التأنيث الساكنة" style="whiteSpace=wrap;html=1;fontSize=14;fillColor=#f08e81;strokeColor=none;fontColor=#FFFFFF;rounded=1;shadow=0;labelBackgroundColor=none;strokeWidth=3;spacing=5;fontStyle=0;arcSize=7;" vertex="1" parent="1">
+        <mxCell id="iHlBPepbxZfsLJ_pUvUi-1782" value="تاء التأنيث الساكنة" style="whiteSpace=wrap;html=1;fontSize=14;fillColor=#f08e81;strokeColor=none;fontColor=#FFFFFF;rounded=1;shadow=0;labelBackgroundColor=none;strokeWidth=3;spacing=5;fontStyle=0;arcSize=7;" parent="1" vertex="1">
           <mxGeometry x="960" y="410" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="iHlBPepbxZfsLJ_pUvUi-1784" value="أنواع الفعل" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f08e81;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
+        <mxCell id="iHlBPepbxZfsLJ_pUvUi-1784" value="أنواع الفعل" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f08e81;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
           <mxGeometry x="960" y="460" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="iHlBPepbxZfsLJ_pUvUi-1785" value="أمر" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f08e81;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
+        <mxCell id="iHlBPepbxZfsLJ_pUvUi-1785" value="أمر" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f08e81;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
           <mxGeometry x="960" y="510" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="iHlBPepbxZfsLJ_pUvUi-1786" value="مضارع" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f08e81;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
+        <mxCell id="iHlBPepbxZfsLJ_pUvUi-1786" value="مضارع" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f08e81;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
           <mxGeometry x="1030" y="510" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="iHlBPepbxZfsLJ_pUvUi-1787" value="ماضي" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f08e81;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
+        <mxCell id="iHlBPepbxZfsLJ_pUvUi-1787" value="ماضي" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f08e81;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
           <mxGeometry x="1100" y="510" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="iHlBPepbxZfsLJ_pUvUi-1788" value="اللفظ" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f08e81;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
+        <mxCell id="iHlBPepbxZfsLJ_pUvUi-1788" value="اللفظ" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f08e81;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
           <mxGeometry x="1110" y="60" width="50" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="iHlBPepbxZfsLJ_pUvUi-1789" value="تاء التأنيث" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f08e81;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
+        <mxCell id="iHlBPepbxZfsLJ_pUvUi-1789" value="تاء التأنيث" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f08e81;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
           <mxGeometry x="1100" y="560" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="iHlBPepbxZfsLJ_pUvUi-1790" value="دخول لم" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f08e81;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
+        <mxCell id="iHlBPepbxZfsLJ_pUvUi-1790" value="دخول لم" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f08e81;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
           <mxGeometry x="1030" y="560" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YPoOsqwpcXnKGERG9v0A-1779" value="يبدأ بأحد حروف أنيت" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f08e81;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="610" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YPoOsqwpcXnKGERG9v0A-1780" value="يضم أوله إذا كان ماضيه على أربعة أحرف؛&amp;nbsp;&lt;div&gt;دحرج يُدحرج،&lt;/div&gt;&lt;div&gt;&amp;nbsp;أكرم يُكرم&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f08e81;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="670" width="120" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
